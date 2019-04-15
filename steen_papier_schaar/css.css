@@ -1,0 +1,37 @@
+*{
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#spel1{
+    margin: 10px;
+}
+
+#papier{
+    background-image: url(paper.png);
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+#steen{
+    background-image: url(rock.png);
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    
+}
+#schaar{
+    background-image: url(scissors.png);
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+#antwoord{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    margin: 20px;
+}
